@@ -1,0 +1,32 @@
+table{
+    border-collapse: collapse;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+}
+td ,th {
+    border:1px solid #000000; 
+    padding:8px;
+}
+thead{
+    background-color: green;
+}
+tfoot{
+    background-color: green;
+}
+.pose{
+    background-color: indianred;
+    text-align: center;
+}
+.heure{
+    background-color: lawngreen;
+}
+.anne{
+    background-color: lightseagreen;
+}
+caption{
+    font-size: 2em;
+    font-family:  sans-serif;
+    text-decoration: underline;
+}
+
